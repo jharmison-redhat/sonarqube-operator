@@ -1,5 +1,0 @@
----
-- version: v1alpha1
-  group: redhatgov.io
-  kind: Sonarqube
-  playbook: playbooks/sonarqube-operator.yml
